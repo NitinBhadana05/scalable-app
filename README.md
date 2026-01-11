@@ -175,6 +175,6 @@ http://localhost:3000
 
 - Built with ❤️ to demonstrate real-world full-stack development skills.
 
-##📄 License
+## 📄 License
 
 - This project is open-source and free to use
